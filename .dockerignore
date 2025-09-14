@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# SQLite runtime DB
+*.db
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Data outputs
+data/processed/*
+
+# Logs
+*.log
+
+# OS / IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

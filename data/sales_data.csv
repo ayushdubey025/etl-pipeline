@@ -1,0 +1,36 @@
+id,date,product,quantity,price,currency,region
+1,2025-08-01,Laptop,2,55000,INR,India
+2,2025-08-01,Mobile,5,12000,INR,India
+3,08-02-2025,Headphones,10,1500,INR,India
+4,2025/08/03,Keyboard,3,800,INR,India
+5,2025-08-04,Mouse,7,,INR,India
+6,2025-08-05,Monitor,2,120,USD,USA
+7,2025-08-05,Tablet,1,220,USD,USA
+8,2025-08-06,Laptop,1,750,EUR,Germany
+9,2025-08-07,Mobile,,300,USD,USA
+10,2025-08-07,Headphones,15,40,USD,USA
+11,2025-08-08,Mouse,5,450,INR,India
+12,08-09-2025,Keyboard,4,20,USD,USA
+13,2025/08/10,Laptop,3,800,USD,USA
+14,2025-08-11,Monitor,,1000,EUR,Germany
+15,2025-08-12,Tablet,2,,USD,USA
+16,2025-08-13,Webcam,3,50,USD,USA
+17,08-14-2025,Printer,1,250,EUR,Germany
+18,2025/08/15,Scanner,2,180,USD,USA
+19,2025-08-16,Router,4,70,INR,India
+20,2025-08-17,Speaker,6,90,USD,USA
+21,08-18-2025,Microphone,1,110,EUR,Germany
+22,2025-08-19,External SSD,1,10000,INR,India
+23,2025-08-20,Gaming Chair,1,200,USD,USA
+24,08-21-2025,Desk Lamp,5,,INR,India
+25,2025/08/22,Smartwatch,2,350,USD,USA
+26,2025-08-23,Drone,1,750,EUR,Germany
+27,08-24-2025,Action Camera,1,400,USD,USA
+28,2025-08-25,E-Reader,3,150,INR,India
+29,2025-08-26,Projector,1,600,USD,USA
+30,08-27-2025,VR Headset,1,,EUR,Germany
+31,2025/08/28,Fitness Tracker,5,80,USD,USA
+32,2025-08-29,Smart Bulb,10,20,INR,India
+33,08-30-2025,Portable Charger,8,30,USD,USA
+34,2025/08/31,Robot Vacuum,1,450,EUR,Germany
+35,2025-09-01,Coffee Maker,2,7000,INR,India

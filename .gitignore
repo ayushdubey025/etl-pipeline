@@ -1,0 +1,24 @@
+# ---------------- Python ----------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db               # Ignore SQLite DB by default
+.env
+*.log
+
+# ---------------- Virtual Environment ----------------
+.venv/
+env/
+venv/
+
+# ---------------- Data ----------------
+data/processed/*    # Ignore processed outputs
+!data/raw/*         # Keep raw sample data
+database/sample.db  # Optional: include if you want a sample DB
+
+# ---------------- OS & IDE ----------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

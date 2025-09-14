@@ -1,0 +1,18 @@
+[
+  {"id": 36, "date": "2025-09-01", "product": "Webcam", "quantity": 3, "price": 50, "currency": "USD", "region": "USA"},
+  {"id": 37, "date": "09-02-2025", "product": "Printer", "quantity": 1, "price": 250, "currency": "EUR", "region": "Germany"},
+  {"id": 38, "date": "2025/09/03", "product": "Scanner", "quantity": 2, "price": 180, "currency": "USD", "region": "USA"},
+  {"id": 39, "date": "2025-09-04", "product": "Router", "quantity": 4, "price": 70, "currency": "INR", "region": "India"},
+  {"id": 40, "date": "2025-09-05", "product": "Speaker", "quantity": 6, "price": 90, "currency": "USD", "region": "USA"},
+  {"id": 41, "date": "09-06-2025", "product": "Microphone", "quantity": 1, "price": 110, "currency": "EUR", "region": "Germany"},
+  {"id": 42, "date": "2025-09-07", "product": "External SSD", "quantity": 1, "price": 10000, "currency": "INR", "region": "India"},
+  {"id": 43, "date": "2025-09-08", "product": "Gaming Chair", "quantity": 1, "price": 200, "currency": "USD", "region": "USA"},
+  {"id": 44, "date": "09-09-2025", "product": "Desk Lamp", "quantity": 5, "price": null, "currency": "INR", "region": "India"},
+  {"id": 45, "date": "2025/09/10", "product": "Smartwatch", "quantity": 2, "price": 350, "currency": "USD", "region": "USA"},
+  {"id": 46, "date": "2025-09-11", "product": "Drone", "quantity": 1, "price": 750, "currency": "EUR", "region": "Germany"},
+  {"id": 47, "date": "09-12-2025", "product": "Action Camera", "quantity": 1, "price": 400, "currency": "USD", "region": "USA"},
+  {"id": 48, "date": "2025/09/13", "product": "E-Reader", "quantity": 3, "price": 150, "currency": "INR", "region": "India"},
+  {"id": 49, "date": "2025-09-14", "product": "Projector", "quantity": 1, "price": 600, "currency": "USD", "region": "USA"},
+  {"id": 50, "date": "09-15-2025", "product": "VR Headset", "quantity": 1, "price": null, "currency": "EUR", "region": "Germany"}
+  
+]

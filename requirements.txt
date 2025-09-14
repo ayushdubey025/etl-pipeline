@@ -1,0 +1,2 @@
+pandas==2.2.2
+# Add other dependencies if needed in the future
