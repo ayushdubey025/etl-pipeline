@@ -51,7 +51,7 @@ You can run this project either natively (installing Python dependencies) or usi
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/etl_project.git](https://github.com/your-username/etl_project.git)
+    git clone [https://github.com/ayushdubey025/etl-pipeline.git](https://github.com/ayushdubey025/etl-pipeline.git)
     cd etl_project
     ```
     (Replace `your-username` with your actual GitHub username)
